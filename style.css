@@ -81,7 +81,6 @@
   justify-content: space-between;
   width: 300px;
   margin-left: 24px;
-  /* margin-right: 24px; */
 }
 
 button {
@@ -92,9 +91,12 @@ button {
   height: 48px;
   border-radius: 40px;
   margin-bottom: 10%;
-  /* margin-left: 7%; */
   margin-right: 10%;
   font-size: 16px;
+}
+
+button:hover {
+  background-color: hsl(234, 85%, 45%);
 }
 
 .two-cards {
