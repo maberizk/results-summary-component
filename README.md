@@ -24,5 +24,7 @@ Your users should be able to:
 - See hover and focus states for all interactive elements on the page
 - **Bonus**: Use the local JSON data to dynamically populate the content
 
+<p align="center">
 <img src="/assets/images/desktop.png">
 <img src="/assets/images/mobile.png">
+</p>
